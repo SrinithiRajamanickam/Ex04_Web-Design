@@ -26,9 +26,58 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
 
+<body>
+
+<h1>rice</h1>
+
+<a href="https://en.wikipedia.org/wiki/Rice">
+
+<img src="C:\Users\Intel\Downloads\rice.jpg"
+
+width="200" height="200"></a>
+
+<br>
+
+<br>
+
+
+
+<h1>disc harrow</h1>
+
+<a href="https://en.wikipedia.org/wiki/Disc_harrow">
+
+<img src="C:\Users\Intel\Downloads\dh.jpg"
+
+width="200" height="200"></a>
+
+<br>
+
+<br>
+
+
+
+<h1>fertilizer</h1>
+
+<a href="https://en.wikipedia.org/wiki/Calcium_nitrate">
+
+<img src="C:\Users\Intel\Downloads\cn.jpg"
+
+width="200" height="200"></a>
+
+</body>
+
+</html>
+```
 
 ## OUTPUT
+![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (45).png>)
+![alt text](<Screenshot (46).png>)
+![alt text](<Screenshot (47).png>)
+![alt text](<Screenshot (48).png>)
 
 
 ## RESULT
